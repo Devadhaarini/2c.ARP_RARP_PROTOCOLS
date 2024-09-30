@@ -17,7 +17,11 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - ARP
+![Screenshot 2024-09-30 142253](https://github.com/user-attachments/assets/a3a7344f-143e-4e7a-a2ba-7f5215639bed)
+
 ## OUPUT - ARP
+![Screenshot 2024-09-30 142219](https://github.com/user-attachments/assets/696c09ef-8741-4d72-bfce-93bf3662055f)
+
 ## PROGRAM - RARP
 ## OUPUT -RARP
 ## RESULT
